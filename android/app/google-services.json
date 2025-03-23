@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890509016425",
+    "project_id": "fluttertp6-fa365",
+    "storage_bucket": "fluttertp6-fa365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890509016425:android:6778d17ffabdd3433851f8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRTcO7zYvJj497L6Hs5RqktZ8ipIAZvuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
